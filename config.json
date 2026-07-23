@@ -1,0 +1,19 @@
+{
+  "GameSettings": {
+    "GamePath": "",
+    "Season": "4",
+    "Chapter": "2",
+    "Version": "14.60",
+    "AutoLogin": true
+  },
+  "DisplaySettings": {
+    "Theme": "dark",
+    "Language": "ar",
+    "Width": 600,
+    "Height": 520
+  },
+  "ServerSettings": {
+    "RadminVpnNetworkName": "NYZ_GAME",
+    "RadminVpnPassword": "FN2024Secure!"
+  }
+}
