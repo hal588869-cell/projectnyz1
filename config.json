@@ -4,16 +4,20 @@
     "Season": "4",
     "Chapter": "2",
     "Version": "14.60",
+    "LaunchType": "DirectLaunch",
+    "SkipEpicGames": true,
     "AutoLogin": true
   },
   "DisplaySettings": {
     "Theme": "dark",
     "Language": "ar",
     "Width": 600,
-    "Height": 520
+    "Height": 500
   },
   "ServerSettings": {
+    "EnableRadminVPN": false,
     "RadminVpnNetworkName": "NYZ_GAME",
     "RadminVpnPassword": "FN2024Secure!"
-  }
+  },
+  "Notes": "Direct Fortnite launcher - No Epic Games authentication required"
 }
